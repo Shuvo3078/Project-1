@@ -1,0 +1,38 @@
+.box1{
+    color:blue;
+    background-color:aquamarine;
+    text-align: center;
+    font-size: 50px;
+    margin: 200px;
+    padding: 50px 100px
+}
+.two{
+    text-align: justify;
+}
+.one{
+    background-color: chocolate;
+}
+.box2{
+    font-size: 50px;
+    background-color:bisque;
+    text-align: center;
+    margin:100px;
+    width:300px
+}
+.four{
+    background-color: #ff0000;
+    display: block;
+    padding: 20px;
+    width:50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.five{
+    background-color: #ffe4c4;
+    display: inline-block;
+}
+.six{
+    background-color: #a52a2a;
+    display: inline-block;
+    /* padding: 200px 20px; */
+}
